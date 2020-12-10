@@ -1,1 +1,2 @@
 # Library_Manager
+这是我在学校和江门滨江公司合作开展的实习培训中开发的项目，我担任了后端开发组中的一员，这里面使用的是SpringBoot+Swagger+Mybatis等技术，数据库使用Mysql，前端代码在另一个仓库
